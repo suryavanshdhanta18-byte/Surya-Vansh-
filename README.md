@@ -1,6 +1,6 @@
-# **weekly project**
+# **Weekly Project**
 
-This project is a simple weekly project, I have made it to made it to avoid repetition and practice some new code and function
+This project is a simple weekly project, I have made it to avoid repetition and practice some new code and function
 
 
 # *Tech Stock*
